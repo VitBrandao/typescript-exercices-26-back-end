@@ -1,7 +1,5 @@
 # typescript-exercices-26-back-end
 
-# typescript-oop-exercices-27
-
 :us:  From the Back-End Module (Web Development course at Trybe). 
 In the Block 26 we started to learn TypeScript. Here are some of the first exercices that I developed.
 It includes:
